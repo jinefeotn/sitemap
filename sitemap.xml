@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Manuel Eklenen Statik Sayfalar -->
+  <url>
+    <loc>https://udemyplcogreniyorum.blogspot.com/</loc>
+    <lastmod>2025-03-17T00:00:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://udemyplcogreniyorum.blogspot.com/p/siemens.html</loc>
+    <lastmod>2025-03-17T00:00:00Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://udemyplcogreniyorum.blogspot.com/p/factoryio.html</loc>
+    <lastmod>2025-03-17T00:00:00Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://udemyplcogreniyorum.blogspot.com/p/contact.html</loc>
+    <lastmod>2025-03-17T00:00:00Z</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://udemyplcogreniyorum.blogspot.com/p/dokumantasyon.html</loc>
+    <lastmod>2025-03-17T00:00:00Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://udemyplcogreniyorum.blogspot.com/p/privacy.html</loc>
+    <lastmod>2025-03-17T00:00:00Z</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://udemyplcogreniyorum.blogspot.com/p/news.html</loc>
+    <lastmod>2025-03-17T00:00:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+</urlset>
