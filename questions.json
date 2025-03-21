@@ -1,0 +1,551 @@
+[
+  {
+    "question": "Siemens TIA Portal’da --| |-- sembolü neyi ifade eder?",
+    "options": [
+      "A) Normalde Kapalı Kontak",
+      "B) Normalde Açık Kontak",
+      "C) Negatif Kenar Tetikleme",
+      "D) Pozitif Kenar Tetikleme"
+    ],
+    "correct": "B",
+    "category": "Bit Logic Operations (S7-1200, S7-1500)"
+  },
+  {
+    "question": "PLC programlamada --| / |-- sembolü hangi kontak türünü temsil eder?",
+    "options": [
+      "A) Normalde Açık Kontak",
+      "B) Normalde Kapalı Kontak",
+      "C) Pozitif Kenar Tetikleme",
+      "D) Negatif Kenar Tetikleme"
+    ],
+    "correct": "B",
+    "category": "Bit Logic Operations (S7-1200, S7-1500)"
+  },
+  {
+    "question": "Siemens TIA Portal’da --|NOT|-- komutunun temel işlevi nedir?",
+    "options": [
+      "A) Çıkışı kalıcı olarak 1 yapar",
+      "B) Çıkışı kalıcı olarak 0 yapar",
+      "C) Çıkışın tersini alır",
+      "D) Negatif kenar algılar"
+    ],
+    "correct": "C",
+    "category": "Bit Logic Operations (S7-1200, S7-1500)"
+  },
+  {
+    "question": "PLC programlamada --( )-- sembolü hangi komutu ifade eder?",
+    "options": [
+      "A) Çıkış Aktif",
+      "B) Çıkış Pasif",
+      "C) Atama Komutu (Assignment)",
+      "D) Ters Atama"
+    ],
+    "correct": "C",
+    "category": "Bit Logic Operations (S7-1200, S7-1500)"
+  },
+  {
+    "question": "Siemens TIA Portal’da --( / )-- komutunun işlevi nedir?",
+    "options": [
+      "A) Çıkışı giriş sinyaline bağlı olarak anlık kontrol eder",
+      "B) Çıkışın tersini alarak atama yapar",
+      "C) Çıkışı kalıcı olarak 1 yapar",
+      "D) Çıkışı kalıcı olarak 0 yapar"
+    ],
+    "correct": "B",
+    "category": "Bit Logic Operations (S7-1200, S7-1500)"
+  },
+  {
+    "question": "PLC programlamada --( R )-- komutunun temel amacı nedir?",
+    "options": [
+      "A) Çıkışı anlık olarak kontrol eder",
+      "B) Çıkışı kalıcı olarak 1 yapar",
+      "C) Çıkışı kalıcı olarak 0 yapar",
+      "D) Pozitif kenar algılar"
+    ],
+    "correct": "C",
+    "category": "Bit Logic Operations (S7-1200, S7-1500)"
+  },
+  {
+    "question": "Siemens TIA Portal’da --( S )-- komutunun işlevi nedir?",
+    "options": [
+      "A) Çıkışı kalıcı olarak 0 yapar",
+      "B) Çıkışı kalıcı olarak 1 yapar",
+      "C) Çıkışı giriş sinyaline bağlı olarak kontrol eder",
+      "D) Negatif kenar algılar"
+    ],
+    "correct": "B",
+    "category": "Bit Logic Operations (S7-1200, S7-1500)"
+  },
+  {
+    "question": "PLC programlamada SET_BF komutunun temel işlevi nedir?",
+    "options": [
+      "A) Bir bit dizisini sıfırlar",
+      "B) Bir bit dizisini aktif eder (1 yapar)",
+      "C) Pozitif kenar algılar",
+      "D) Negatif kenar algılar"
+    ],
+    "correct": "B",
+    "category": "Bit Logic Operations (S7-1200, S7-1500)"
+  },
+  {
+    "question": "Siemens TIA Portal’da RESET_BF komutunun amacı nedir?",
+    "options": [
+      "A) Bir bit dizisini aktif eder (1 yapar)",
+      "B) Bir bit dizisini sıfırlar (0 yapar)",
+      "C) Çıkışı anlık olarak kontrol eder",
+      "D) Çıkışın tersini alır"
+    ],
+    "correct": "B",
+    "category": "Bit Logic Operations (S7-1200, S7-1500)"
+  },
+  {
+    "question": "PLC programlamada SR (Ayarla/Sıfırla) komutunun çalışma mantığı nedir?",
+    "options": [
+      "A) Önce sıfırlama, sonra ayarlama yapar",
+      "B) Önce ayarlama, sonra sıfırlama yapar",
+      "C) Çıkışı anlık olarak kontrol eder",
+      "D) Negatif kenar algılar"
+    ],
+    "correct": "B",
+    "category": "Bit Logic Operations (S7-1200, S7-1500)"
+  },
+  {
+    "question": "Siemens TIA Portal’da RS (Sıfırla/Ayarla) komutunun SR’den farkı nedir?",
+    "options": [
+      "A) RS önce ayarlama, sonra sıfırlama yapar",
+      "B) RS önce sıfırlama, sonra ayarlama yapar",
+      "C) RS negatif kenar algılar",
+      "D) RS pozitif kenar algılar"
+    ],
+    "correct": "B",
+    "category": "Bit Logic Operations (S7-1200, S7-1500)"
+  },
+  {
+    "question": "PLC programlamada --|P|-- komutunun temel işlevi nedir?",
+    "options": [
+      "A) Negatif kenar algılar",
+      "B) Pozitif kenar algılar",
+      "C) Çıkışı kalıcı olarak 1 yapar",
+      "D) Çıkışı kalıcı olarak 0 yapar"
+    ],
+    "correct": "B",
+    "category": "Bit Logic Operations (S7-1200, S7-1500)"
+  },
+  {
+    "question": "Siemens TIA Portal’da --|N|-- komutunun işlevi nedir?",
+    "options": [
+      "A) Pozitif kenar algılar",
+      "B) Negatif kenar algılar",
+      "C) Çıkışı anlık olarak kontrol eder",
+      "D) Çıkışın tersini alır"
+    ],
+    "correct": "B",
+    "category": "Bit Logic Operations (S7-1200, S7-1500)"
+  },
+  {
+    "question": "PLC programlamada P_TRIG komutunun temel amacı nedir?",
+    "options": [
+      "A) Negatif sinyal kenarını sorgular",
+      "B) Pozitif sinyal kenarını sorgular",
+      "C) Çıkışı kalıcı olarak sıfırlar",
+      "D) Çıkışı kalıcı olarak aktif eder"
+    ],
+    "correct": "B",
+    "category": "Bit Logic Operations (S7-1200, S7-1500)"
+  },
+  {
+    "question": "Siemens TIA Portal’da N_TRIG komutunun işlevi nedir?",
+    "options": [
+      "A) Pozitif sinyal kenarını sorgular",
+      "B) Negatif sinyal kenarını sorgular",
+      "C) Çıkışı anlık olarak kontrol eder",
+      "D) Çıkışın tersini alır"
+    ],
+    "correct": "B",
+    "category": "Bit Logic Operations (S7-1200, S7-1500)"
+  },
+  {
+    "question": "PLC programlamada R_TRIG komutunun temel özelliği nedir?",
+    "options": [
+      "A) Negatif kenar algılar ve durumu bir bellek bitinde saklar",
+      "B) Pozitif kenar algılar ve durumu bir bellek alanında saklar",
+      "C) Çıkışı kalıcı olarak 1 yapar",
+      "D) Çıkışı kalıcı olarak 0 yapar"
+    ],
+    "correct": "B",
+    "category": "Bit Logic Operations (S7-1200, S7-1500)"
+  },
+  {
+    "question": "Siemens TIA Portal’da F_TRIG komutunun işlevi nedir?",
+    "options": [
+      "A) Pozitif kenar algılar ve durumu bir bellek alanında saklar",
+      "B) Negatif kenar algılar ve durumu bir bellek alanında saklar",
+      "C) Çıkışı anlık olarak kontrol eder",
+      "D) Çıkışın tersini alır"
+    ],
+    "correct": "B",
+    "category": "Bit Logic Operations (S7-1200, S7-1500)"
+  },
+  {
+    "question": "PLC programlamada --|P|-- ve --(P)-- komutları arasındaki temel fark nedir?",
+    "options": [
+      "A) --|P|-- bir kontak, --(P)-- bir bobindir",
+      "B) --|P|-- negatif kenar, --(P)-- pozitif kenar algılar",
+      "C) --|P|-- bir bobin, --(P)-- bir kontaktır",
+      "D) --|P|-- kalıcı, --(P)-- anlık kontrol sağlar"
+    ],
+    "correct": "A",
+    "category": "Bit Logic Operations (S7-1200, S7-1500)"
+  },
+  {
+    "question": "Siemens TIA Portal’da P_TRIG ve R_TRIG komutları arasındaki temel fark nedir?",
+    "options": [
+      "A) P_TRIG durumu bir bellek bitinde saklar, R_TRIG bir bellek alanında saklar",
+      "B) P_TRIG negatif kenar, R_TRIG pozitif kenar algılar",
+      "C) P_TRIG bir kontak, R_TRIG bir bobindir",
+      "D) P_TRIG kalıcı, R_TRIG anlık kontrol sağlar"
+    ],
+    "correct": "A",
+    "category": "Bit Logic Operations (S7-1200, S7-1500)"
+  },
+  {
+    "question": "PLC programlamada --|N|-- ve --(N)-- komutları arasındaki temel fark nedir?",
+    "options": [
+      "A) --|N|-- bir bobin, --(N)-- bir kontaktır",
+      "B) --|N|-- bir kontak, --(N)-- bir bobindir",
+      "C) --|N|-- pozitif kenar, --(N)-- negatif kenar algılar",
+      "D) --|N|-- kalıcı, --(N)-- anlık kontrol sağlar"
+    ],
+    "correct": "B",
+    "category": "Bit Logic Operations (S7-1200, S7-1500)"
+  },
+  {
+    "question": "Siemens TIA Portal’da N_TRIG ve F_TRIG komutları arasındaki temel fark nedir?",
+    "options": [
+      "A) N_TRIG durumu bir bellek bitinde saklar, F_TRIG bir bellek alanında saklar",
+      "B) N_TRIG pozitif kenar, F_TRIG negatif kenar algılar",
+      "C) N_TRIG bir kontak, F_TRIG bir bobindir",
+      "D) N_TRIG kalıcı, F_TRIG anlık kontrol sağlar"
+    ],
+    "correct": "A",
+    "category": "Bit Logic Operations (S7-1200, S7-1500)"
+  },
+  {
+    "question": "PLC programlamada RESET (--(R)--), SET (--(S)--) ve Assignment (--( )--) komutları arasındaki temel fark nedir?",
+    "options": [
+      "A) RESET ve SET anlık kontrol sağlar, Assignment kalıcıdır",
+      "B) RESET ve SET kalıcı kontrol sağlar, Assignment anlık kontrol sağlar",
+      "C) RESET negatif kenar, SET pozitif kenar algılar",
+      "D) Assignment bir kontak, diğerleri bobindir"
+    ],
+    "correct": "B",
+    "category": "Bit Logic Operations (S7-1200, S7-1500)"
+  },
+  {
+    "question": "Siemens PLC’lerde kullanılan ve zaman gecikmeli röle mantığıyla çalışan komut hangisidir?",
+    "options": ["A) TON", "B) XOR", "C) AND", "D) OR"],
+    "correct": "A",
+    "category": "Timer Operations (S7-1200, S7-1500)"
+  },
+  {
+    "question": "Siemens PLC’de zamanlayıcılar (Timer) hangi bellek alanında saklanır?",
+    "options": ["A) DB", "B) MB", "C) T", "D) OB"],
+    "correct": "C",
+    "category": "Timer Operations (S7-1200, S7-1500)"
+  },
+  {
+    "question": "Siemens PLC’lerde zamanlayıcılar (Timers) hangi numaralandırma formatıyla kullanılır?",
+    "options": ["A) T0, T1, T2", "B) C0, C1, C2", "C) DB1, DB2, DB3", "D) M0, M1, M2"],
+    "correct": "A",
+    "category": "Timer Operations (S7-1200, S7-1500)"
+  },
+  {
+    "question": "Siemens PLC'de 'TON' fonksiyonu hangi amaçla kullanılır?",
+    "options": ["A) Zaman gecikmesi", "B) Sayıcı işlemi", "C) Matematiksel işlem", "D) Lojik karşılaştırma"],
+    "correct": "A",
+    "category": "Timer Operations (S7-1200, S7-1500)"
+  },
+  {
+    "question": "PLC programlamada timer'ın amacı nedir?",
+    "options": ["A) Döngü sayısını saymak", "B) Bir eylemi geciktirmek", "C) Veri depolamak", "D) Aritmetik işlemler yapmak"],
+    "correct": "B",
+    "category": "Timer Operations (S7-1200, S7-1500)"
+  },
+  {
+    "question": "Siemens TIA Portal’da 'TOF' fonksiyonu hangi amaçla kullanılır?",
+    "options": [
+      "A) Gecikmeli açma (On-Delay)",
+      "B) Gecikmeli kapama (Off-Delay)",
+      "C) Darbe üretme (Pulse)",
+      "D) Matematiksel işlem"
+    ],
+    "correct": "B",
+    "category": "Timer Operations (S7-1200, S7-1500)"
+  },
+  {
+    "question": "Siemens TIA Portal’da 'TP' fonksiyonu ne için kullanılır?",
+    "options": [
+      "A) Gecikmeli açma (On-Delay)",
+      "B) Gecikmeli kapama (Off-Delay)",
+      "C) Darbe üretme (Pulse)",
+      "D) Sayıcı işlemi"
+    ],
+    "correct": "C",
+    "category": "Timer Operations (S7-1200, S7-1500)"
+  },
+  {
+    "question": "Siemens PLC'lerde kullanılan yüksek hızlı sayıcı komutunun kısa kodu nedir?",
+    "options": ["A) HSC", "B) PWM", "C) TON", "D) PLS"],
+    "correct": "A",
+    "category": "Counter Operations (S7-1200, S7-1500)"
+  },
+  {
+    "question": "Siemens S7-1500 serisi PLC'lerde dahili yüksek hızlı sayaçlar hangi işlemler için kullanılır?",
+    "options": ["A) Zaman gecikmeli işlemler", "B) Analog veri işleme", "C) Hızlı nabız sayma", "D) Mantıksal işlemler"],
+    "correct": "C",
+    "category": "Counter Operations (S7-1200, S7-1500)"
+  },
+  {
+    "question": "PLC programlamada 'Counter' ne işe yarar?",
+    "options": ["A) Süre ölçer", "B) Sayma işlemi yapar", "C) Mantıksal işlemler yapar", "D) Analog verileri işler"],
+    "correct": "B",
+    "category": "Counter Operations (S7-1200, S7-1500)"
+  },
+  {
+    "question": "Bir PLC programında kullanılan 'CTU' komutu ne işe yarar?",
+    "options": ["A) Zaman sayacı başlatır", "B) Yukarı yönlü bir sayaçtır", "C) Çıkışları sıfırlar", "D) Bellek bölgesini temizler"],
+    "correct": "B",
+    "category": "Counter Operations (S7-1200, S7-1500)"
+  },
+  {
+    "question": "PLC'de 'counter' neyi temsil eder?",
+    "options": ["A) Giriş sinyali", "B) Sayıcı", "C) Çıkış sinyali", "D) Timer"],
+    "correct": "B",
+    "category": "Counter Operations (S7-1200, S7-1500)"
+  },
+  {
+    "question": "Siemens TIA Portal’da 'CTD' komutu ne işe yarar?",
+    "options": [
+      "A) Yukarı yönlü sayma yapar",
+      "B) Aşağı yönlü sayma yapar",
+      "C) Yukarı ve aşağı yönlü sayma yapar",
+      "D) Zaman gecikmesi sağlar"
+    ],
+    "correct": "B",
+    "category": "Counter Operations (S7-1200, S7-1500)"
+  },
+  {
+    "question": "Siemens TIA Portal’da 'CTUD' komutu hangi amaçla kullanılır?",
+    "options": [
+      "A) Yukarı yönlü sayma yapar",
+      "B) Aşağı yönlü sayma yapar",
+      "C) Yukarı ve aşağı yönlü sayma yapar",
+      "D) Darbe üretir"
+    ],
+    "correct": "C",
+    "category": "Counter Operations (S7-1200, S7-1500)"
+  },
+  {
+    "question": "PLC'de kullanılan veri türlerinden 'BYTE' kaç bit içerir?",
+    "options": ["A) 4 bit", "B) 8 bit", "C) 16 bit", "D) 32 bit"],
+    "correct": "B",
+    "category": "Conversion Operations (S7-1200, S7-1500)"
+  },
+  {
+    "question": "Bir PLC'de 'BOOL' veri tipi kaç bitlik bilgi saklar?",
+    "options": ["A) 1 bit", "B) 8 bit", "C) 16 bit", "D) 32 bit"],
+    "correct": "A",
+    "category": "Conversion Operations (S7-1200, S7-1500)"
+  },
+  {
+    "question": "Siemens PLC'lerde 'MW10' değişkeni ne tür bir veriyi ifade eder?",
+    "options": ["A) 8 bitlik Byte", "B) 16 bitlik Word", "C) 32 bitlik Double Word", "D) 64 bitlik Quad Word"],
+    "correct": "B",
+    "category": "Conversion Operations (S7-1200, S7-1500)"
+  },
+  {
+    "question": "Siemens PLC'lerde 'DB10.DBW2' değişkeni hangi veri türünü ifade eder?",
+    "options": ["A) Boolean", "B) Byte", "C) Word", "D) Double Word"],
+    "correct": "C",
+    "category": "Conversion Operations (S7-1200, S7-1500)"
+  },
+  {
+    "question": "PLC’de 'MW100' değişkeni kaç byte veri tutar?",
+    "options": ["A) 1 Byte", "B) 2 Byte", "C) 4 Byte", "D) 8 Byte"],
+    "correct": "B",
+    "category": "Conversion Operations (S7-1200, S7-1500)"
+  },
+  {
+    "question": "Siemens PLC'lerde kullanılan 'DBW' değişken türü kaç bit içerir?",
+    "options": ["A) 8 bit", "B) 16 bit", "C) 32 bit", "D) 64 bit"],
+    "correct": "B",
+    "category": "Conversion Operations (S7-1200, S7-1500)"
+  },
+  {
+    "question": "Siemens PLC'lerde 'DBX' değişkeni hangi veri türünü ifade eder?",
+    "options": ["A) Bit", "B) Byte", "C) Word", "D) Double Word"],
+    "correct": "A",
+    "category": "Conversion Operations (S7-1200, S7-1500)"
+  },
+  {
+    "question": "Siemens PLC'lerde 'MW' hafıza bölgesi neyi ifade eder?",
+    "options": ["A) Marker Byte", "B) Marker Word", "C) Memory Bit", "D) Memory Double Word"],
+    "correct": "B",
+    "category": "Conversion Operations (S7-1200, S7-1500)"
+  },
+  {
+    "question": "Siemens TIA Portal’da bir 'INT' değerini 'REAL' değerine dönüştürmek için hangi komut kullanılır?",
+    "options": ["A) INT_TO_REAL", "B) MOVE", "C) ADD", "D) CMP"],
+    "correct": "A",
+    "category": "Conversion Operations (S7-1200, S7-1500)"
+  },
+  {
+    "question": "Siemens TIA Portal’da bir 'DINT' değerini 'STRING' türüne dönüştürmek için hangi komut kullanılır?",
+    "options": ["A) DINT_TO_STRING", "B) MOVE", "C) STRG_TO_DINT", "D) CONCAT"],
+    "correct": "A",
+    "category": "Conversion Operations (S7-1200, S7-1500)"
+  },
+  {
+    "question": "Siemens PLC'lerde 'OB1' bloğu hangi görev için kullanılır?",
+    "options": ["A) Başlangıç Bloğu", "B) Organizasyon Bloğu", "C) Veri Bloğu", "D) Fonksiyon Bloğu"],
+    "correct": "B",
+    "category": "Program Control Operations (S7-1200, S7-1500)"
+  },
+  {
+    "question": "Siemens PLC'de 'OB100' bloğu ne zaman çalıştırılır?",
+    "options": ["A) Her çevrimde", "B) PLC ilk açıldığında", "C) Her 1 saniyede bir", "D) Sadece hata durumunda"],
+    "correct": "B",
+    "category": "Program Control Operations (S7-1200, S7-1500)"
+  },
+  {
+    "question": "PLC programlamada 'scan cycle' ne anlama gelir?",
+    "options": ["A) Programın yüklenme süresi", "B) Girişlerin okunması, programın çalıştırılması ve çıkışların güncellenmesi döngüsü", "C) Timer'ın çalışma süresi", "D) Bellek kontrolü"],
+    "correct": "B",
+    "category": "Program Control Operations (S7-1200, S7-1500)"
+  },
+  {
+    "question": "PLC'de 'latch' komutu ne işe yarar?",
+    "options": ["A) Bir çıkışı kalıcı olarak açar", "B) Bir çıkışı kalıcı olarak kapatır", "C) Bir çıkışı geçici olarak açar", "D) Bir çıkışı geçici olarak kapatır"],
+    "correct": "A",
+    "category": "Program Control Operations (S7-1200, S7-1500)"
+  },
+  {
+    "question": "Bir PLC'de 'SCAN CYCLE' süresi neye bağlıdır?",
+    "options": ["A) Kullanılan giriş-çıkış sayısına", "B) Kullanılan programlama diline", "C) Güç kaynağı voltajına", "D) Kullanıcı arayüzüne"],
+    "correct": "A",
+    "category": "Program Control Operations (S7-1200, S7-1500)"
+  },
+  {
+    "question": "Siemens PLC'de bir çıkışı sıfırlamak için hangi komut kullanılır?",
+    "options": ["A) S", "B) R", "C) A", "D) L"],
+    "correct": "B",
+    "category": "Program Control Operations (S7-1200, S7-1500)"
+  },
+  {
+    "question": "Bir Siemens PLC'de 'FC' ne anlama gelir?",
+    "options": ["A) Fonksiyon", "B) Timer", "C) Organizasyon Bloğu", "D) Bellek Alanı"],
+    "correct": "A",
+    "category": "Program Control Operations (S7-1200, S7-1500)"
+  },
+  {
+    "question": "Siemens TIA Portal’da 'FC' ve 'FB' arasındaki temel fark nedir?",
+    "options": [
+      "A) FC bir bellek alanına sahiptir, FB yoktur",
+      "B) FB bir bellek alanına sahiptir, FC yoktur",
+      "C) FC yalnızca giriş parametresi alır, FB almaz",
+      "D) FB yalnızca çıkış parametresi verir, FC vermez"
+    ],
+    "correct": "B",
+    "category": "Program Control Operations (S7-1200, S7-1500)"
+  },
+  {
+    "question": "Siemens TIA Portal’da bir fonksiyon bloğunu (FB) çağırmak için hangi komut kullanılır?",
+    "options": ["A) CALL", "B) MOVE", "C) CMP", "D) ADD"],
+    "correct": "A",
+    "category": "Program Control Operations (S7-1200, S7-1500)"
+  },
+  {
+    "question": "Siemens S7-300 ve S7-400 PLC'lerinde program belleği hangi bellek türüne kaydedilir?",
+    "options": ["A) RAM", "B) ROM", "C) EPROM", "D) EEPROM"],
+    "correct": "A",
+    "category": "Legacy (S7-300, S7-400)"
+  },
+  {
+    "question": "Siemens S7-300 ve S7-400 PLC’lerde donanım yapılandırması hangi yazılım ile yapılır?",
+    "options": ["A) WinCC", "B) TIA Portal", "C) Simatic Manager", "D) Codesys"],
+    "correct": "C",
+    "category": "Legacy (S7-300, S7-400)"
+  },
+  {
+    "question": "Siemens PLC’lerde kullanılan 'S7-300' serisi hangi amaçla geliştirilmiştir?",
+    "options": ["A) Küçük ölçekli sistemler", "B) Orta ve büyük ölçekli otomasyon sistemleri", "C) Gömülü sistemler", "D) Mobil robot sistemleri"],
+    "correct": "B",
+    "category": "Legacy (S7-300, S7-400)"
+  },
+  {
+    "question": "Siemens S7 PLC'lerde yapılan donanım konfigürasyonu hangi dosya formatında saklanır?",
+    "options": ["A) .XML", "B) .XLS", "C) .S7P", "D) .PDF"],
+    "correct": "C",
+    "category": "Legacy (S7-300, S7-400)"
+  },
+  {
+    "question": "Siemens TIA Portal’da bir karşılaştırma işlemi yapmak için kullanılan temel komut nedir?",
+    "options": ["A) CMP", "B) TON", "C) MOVE", "D) AND"],
+    "correct": "A",
+    "category": "Comparator Operations (S7-1200, S7-1500)"
+  },
+  {
+    "question": "PLC programlamada iki değeri karşılaştırmak için kullanılan CMP komutunun bir türü olan '==' neyi kontrol eder?",
+    "options": ["A) Eşitlik", "B) Büyüklük", "C) Küçüklük", "D) Farklılık"],
+    "correct": "A",
+    "category": "Comparator Operations (S7-1200, S7-1500)"
+  },
+  {
+    "question": "Siemens TIA Portal’da iki sayıyı toplamak için kullanılan temel matematiksel komut nedir?",
+    "options": ["A) ADD", "B) SUB", "C) MUL", "D) DIV"],
+    "correct": "A",
+    "category": "Math Functions (S7-1200, S7-1500)"
+  },
+  {
+    "question": "PLC programlamada bir sayıyı 2 ile çarpmak için hangi matematiksel komut kullanılır?",
+    "options": ["A) ADD", "B) SUB", "C) MUL", "D) DIV"],
+    "correct": "C",
+    "category": "Math Functions (S7-1200, S7-1500)"
+  },
+  {
+    "question": "Siemens TIA Portal’da bir değeri bir bellek alanından diğerine taşımak için kullanılan komut nedir?",
+    "options": ["A) MOVE", "B) CMP", "C) TON", "D) AND"],
+    "correct": "A",
+    "category": "Move Operations (S7-1200, S7-1500)"
+  },
+  {
+    "question": "PLC programlamada MOVE komutu hangi tür verileri taşıyabilir?",
+    "options": ["A) Yalnızca BOOL", "B) Yalnızca INT", "C) Herhangi bir veri tipi", "D) Yalnızca STRING"],
+    "correct": "C",
+    "category": "Move Operations (S7-1200, S7-1500)"
+  },
+  {
+    "question": "Siemens TIA Portal’da iki 16-bit kelime üzerinde AND işlemi yapmak için kullanılan komut nedir?",
+    "options": ["A) WAND_W", "B) WOR_W", "C) WXOR_W", "D) NOT_W"],
+    "correct": "A",
+    "category": "Word Logic Operations (S7-1200, S7-1500)"
+  },
+  {
+    "question": "PLC programlamada iki kelime üzerinde OR işlemi yapmak için hangi komut kullanılır?",
+    "options": ["A) WAND_W", "B) WOR_W", "C) WXOR_W", "D) NOT_W"],
+    "correct": "B",
+    "category": "Word Logic Operations (S7-1200, S7-1500)"
+  },
+  {
+    "question": "Siemens TIA Portal’da bir değeri sola kaydırmak için kullanılan komut nedir?",
+    "options": ["A) SHL", "B) SHR", "C) ROL", "D) ROR"],
+    "correct": "A",
+    "category": "Shift and Rotate (S7-1200, S7-1500)"
+  },
+  {
+    "question": "PLC programlamada bir değeri sağa döndürmek için hangi komut kullanılır?",
+    "options": ["A) SHL", "B) SHR", "C) ROL", "D) ROR"],
+    "correct": "D",
+    "category": "Shift and Rotate (S7-1200, S7-1500)"
+  },
+]
